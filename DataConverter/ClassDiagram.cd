@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DataConverter.Converter">
+    <Position X="4" Y="0.5" Width="2.25" />
+    <Members>
+      <Field Name="button1" Hidden="true" />
+      <Field Name="ButtonStart" Hidden="true" />
+      <Field Name="ButtonStop" Hidden="true" />
+      <Field Name="ComboBaud" Hidden="true" />
+      <Field Name="ComboName" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="label2" Hidden="true" />
+      <Field Name="saveFileDialog1" Hidden="true" />
+      <Field Name="TextGet" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>BCAAAoAAICEgABAAgAKAAAAjACAJCFEFAAQIAAAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="宋体" Size="9" />
+</ClassDiagram>

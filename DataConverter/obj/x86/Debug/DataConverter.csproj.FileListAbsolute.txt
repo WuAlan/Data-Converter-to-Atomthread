@@ -1,0 +1,9 @@
+F:\Avr\DataConverter\DataConverter\bin\Debug\DataConverter.exe
+F:\Avr\DataConverter\DataConverter\bin\Debug\DataConverter.pdb
+F:\Avr\DataConverter\DataConverter\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Avr\DataConverter\DataConverter\obj\x86\Debug\DataConverter.Properties.Resources.resources
+F:\Avr\DataConverter\DataConverter\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Avr\DataConverter\DataConverter\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Avr\DataConverter\DataConverter\obj\x86\Debug\DataConverter.exe
+F:\Avr\DataConverter\DataConverter\obj\x86\Debug\DataConverter.pdb
+F:\Avr\DataConverter\DataConverter\obj\x86\Debug\DataConverter.Converter.resources
